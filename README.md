@@ -14,4 +14,4 @@ The script creates (or overwrites) the following:
 ## Usage (one command)
 
 ```bash
-curl -s https://raw.githubusercontent.com/Jlexand/bazzite-primary-display/master/set-primary-display.sh | bash
+bash <(curl -s https://raw.githubusercontent.com/Jlexand/bazzite-primary-display/master/set-primary-display.sh)
